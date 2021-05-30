@@ -1,6 +1,6 @@
 'use strict'
-    let   a1 = 5 * (3 / 100);
-    let   a2 = 3 * (5 / 100);
+    let   a1 = 5 % 3;
+    let   a2 = 3 % 5;
     let   a3 = 5 + '3';
     let   a4 = '5' - 3;
     let   a5 = 75 + 'кг';
